@@ -1,6 +1,6 @@
 # Pizza Order System (pos)
 
-This project is make with Laravel , bootstrap , ajax , jquery , 
+This project is make with Laravel , bootstrap , ajax , jquery , mySQL database
 
 # What can do?
 
@@ -8,4 +8,11 @@ This project is make with Laravel , bootstrap , ajax , jquery ,
 - Its have client side and admin pancel make with middleware .
 
 ## admin side 
-- 
+- manage profile
+- can manage admin lists
+- create or change role [add admin]
+- can create categories 
+- manage products
+- manage customers
+- manage orderLists( accept , reject )
+- manage contact
